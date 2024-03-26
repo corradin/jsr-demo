@@ -1,0 +1,5 @@
+{
+    "name": "@corradin/log-something",
+    "version": "0.0.1",
+    "exports": "./index.ts"
+}

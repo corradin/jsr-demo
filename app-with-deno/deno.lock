@@ -1,0 +1,19 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "jsr:@corradin/log-something@^0.0.1": "jsr:@corradin/log-something@0.0.1"
+    },
+    "jsr": {
+      "@corradin/log-something@0.0.1": {
+        "integrity": "bde2a3fd1f81bb379ebe1719d8d480fe3f118b5fa21314fae63ba5e288ea2841"
+      }
+    }
+  },
+  "remote": {},
+  "workspace": {
+    "dependencies": [
+      "jsr:@corradin/log-something@^0.0.1"
+    ]
+  }
+}

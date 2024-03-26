@@ -1,0 +1,3 @@
+{
+  "imports": { "@corradin/log-something": "jsr:@corradin/log-something@^0.0.1" }
+}
